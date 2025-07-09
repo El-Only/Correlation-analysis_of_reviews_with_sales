@@ -30,23 +30,30 @@ En este proyecto realizamos una limpieza de la base para la uniformidad de colum
 Con la limpieza de datos realizada procedimos con el análisis en enfoque de Distribución Binomial. 
 Revisamos:
 Análisis poblacional
+
 - Población(1) Ventas totales por año.
 - Población(1.2) Ventas totales según la plataforma.
 - Población(1.2.1) Plataforma según mejor relación de ventas.
 - Población(1.2) Life time de plataforma según ventas anuales.
+
 Análisis muestrario
+
 - Muestra(1) Ventas anules de plataformas en 10 años.
 - Muestra(1.2) Top 5 plataformas, ventas por año.
 - Muestra(1.2.1) de plataforma PS2 (Distribución de Reseñas)
 - Correlación de muestra con población de plataformas.
 - Muestras(1.2.2) Distribución ventas por genero.
+
 Correlación Regional
+
 - Muestra(1.2.3) Ventas NA. y cuota de mercado.
 - Muestra(1.2.4) Ventas EU. y cuota de mercado.
 - Muestra(1.2.5) Ventas JP. y cuota de mercado.
 - Muestra(1.2.2.1) Top 5 géneros por region.
 - Muestra(1.2.6) Clasificación ESRB por NA, EU, JP.
+
 Pruebas de Hipótesis nula (H0) y relativa (H1).
+
 - Conclusiones.
 
 
