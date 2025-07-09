@@ -102,7 +102,9 @@ jupyter notebook
 
 ```bash
 ├── README.md                      # Descripción del proyecto e instrucciones
+├── requirements.txt               # Librerías requeridas para ejecución local
 ├── Correlation_analysis.ipynb     # Notebook de Análisis Exploratorio de Datos (EDA)
+├── LICENSE                        # MIT License Copyright (c) 2025 Mike Gallardo 
 └── datasets/                      # Carpeta de base de datos
     ├── games.csv                  # Base de datos original (cruda)
     └── clean_games.csv            # Base de datos actualizada (limpia)
